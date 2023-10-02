@@ -2,7 +2,7 @@ import { StyleSheet, View } from "react-native";
 import { Header } from "../components/Header";
 import { useEffect, useState } from "react";
 import api from "../api";
-import { Button, Card, Text, TextInput } from "react-native-paper";
+import { Text, TextInput } from "react-native-paper";
 import { Cards } from "../components/Cards";
 import { FlatList } from "react-native-web";
 
